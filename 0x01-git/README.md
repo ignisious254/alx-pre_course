@@ -1,1 +1,1 @@
-Starting to code today, so cool
+adding some directories and files
